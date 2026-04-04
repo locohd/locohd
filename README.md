@@ -5,7 +5,7 @@ Desarrollador en formación apasionado por crear soluciones tecnológicas y apre
 - 🐍 Actualmente trabajando con **Python**.
 - 🌐 Construyendo interfaces con **HTML & CSS**.
 - 🐧 Usuario de **Linux**.
-- 📚 Estudiante de Ciencias Sociales y Computación.
+- 📚 Estudiante tecnico en programacion.
 
 ---
 ### Mis Tecnologías
