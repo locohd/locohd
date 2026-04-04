@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Audel 
 
-<!--
-**locohd/locohd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador en formación apasionado por crear soluciones tecnológicas y aprender nuevas herramientas cada día. Actualmente enfocado en el desarrollo web y la lógica de programación.
 
-Here are some ideas to get you started:
+- 🐍 Actualmente trabajando con **Python**.
+- 🌐 Construyendo interfaces con **HTML & CSS**.
+- 🐧 Usuario de **Linux**.
+- 📚 Estudiante de Ciencias Sociales y Computación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Mis Tecnologías
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+# Github stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Audel&locale=es)](https://git.io/streak-stats)
+
+
