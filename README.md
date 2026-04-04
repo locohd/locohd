@@ -14,7 +14,4 @@ Desarrollador en formación apasionado por crear soluciones tecnológicas y apre
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# Github stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Audel&locale=es)](https://git.io/streak-stats)
-
 
