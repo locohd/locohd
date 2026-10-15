@@ -16,6 +16,7 @@ Desarrollador en formación apasionado por crear soluciones tecnológicas y apre
 
 CERTIFICACIONES
 Cisco Networking Academy
-![Insignia de Python Essentials 1](python-essentials-1.1.png)
+<img src="./python-essentials-1.1.png" alt="Insignia de Python Essentials 1 de Cisco" width="120">
+
 
 
